@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/109/425/non_2x/free-vector-watercolor-paper-texture.jpg");
+}
+
+h1{
+    color: green;
+    font-weight: bold;
+
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#subwrapper {
+    color: black;
+}
